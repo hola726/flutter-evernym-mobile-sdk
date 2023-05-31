@@ -1,9 +1,17 @@
 # Flutter Evernym Mobile SDK ( DID )
+>Evernym은 디지털 ID, 암호화, 개인 정보보호의 기술을 가진 회사로 Hyperledger Indy의 개발사 이며 Sovrin Network 및 Sovrin Foundation을 만들었다.
+
+>Evernym Mobile SDK는 안전한 자격 증명(DID)을 사용하기 위한 디지털 지갑을 모바일에 통합할 수 있는 SDK
+
+> [Evernym Mobile SDK 소개](https://www.evernym.com/mobilesdk/)
+> 
+> [Evernym Mobile SDK repository](https://gitlab.com/evernym/mobile/mobile-sdk)
 ## Overview
-Evernym Mobile SDK를 Flutter로 컨버팅한 라이브러리
+
+
+디지털 지갑 기능을 Android iOS 앱에 통합할 수있게 해주는 [Evernym Mobile SDK](https://gitlab.com/evernym/mobile/mobile-sdk) 를 Flutter로 컨버팅한 라이브러리
 
 ## 🛠 Prerequisite
-
 |      NAME      | VERSION |
 |:--------------:|:-------:|
 |  Flutter SDK   |  3.7.7  |
