@@ -3,7 +3,7 @@
 
 >Evernym Mobile SDK는 안전한 자격 증명(DID)을 사용하기 위한 디지털 지갑을 모바일에 통합할 수 있는 SDK
 
-> [Evernym Mobile SDK 소개](https://www.evernym.com/mobilesdk/)
+> [Evernym Mobile SDK 소개](https://www.evernym.com/blog/evernym-mobile-sdk/)
 > 
 > [Evernym Mobile SDK repository](https://gitlab.com/evernym/mobile/mobile-sdk)
 ## Overview
